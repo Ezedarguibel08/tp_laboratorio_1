@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554439320 source:c:\users\eze\desktop\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1554436828 c:\users\eze\desktop\calculator\funciones.h
+
+1554438671 source:c:\users\eze\desktop\calculator\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
